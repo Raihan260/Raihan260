@@ -81,7 +81,7 @@ Active Member of Computer Science organization, participating in tech events & c
 ### 🌐 Connect with Me  
 
 <p align="center">
-  <a href="https://github.com/Raihan260/raihanandika/raw/main/CV_Raihan_Andika.pdf" target="_blank">
+  <a href="https://github.com/Raihan260/Raihan260/raw/main/CV_Raihan_Andika.pdf" target="_blank">
     <img src="https://img.shields.io/badge/CV-Download-orange?logo=adobeacrobatreader" alt="Download CV"/>
   </a>
   <a href="https://www.linkedin.com/in/raihan-andika-014298303">
