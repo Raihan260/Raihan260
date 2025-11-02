@@ -82,18 +82,19 @@ Active Member of Computer Science organization, participating in tech events & c
 
 <p align="center">
   <a href="https://github.com/Raihan260/Raihan260/raw/main/CV_Raihan_Andika.pdf" target="_blank">
-    <img src="https://img.shields.io/badge/Download%20CV-FF7139?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" />
-  </a><br>
-  <a href="https://www.linkedin.com/in/raihan-andika-014298303">
-    <img src="https://img.icons8.com/color/48/linkedin.png" width="40" />
+    <img src="https://img.shields.io/badge/Download%20CV-FF7139?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Download CV"/>
   </a>
-  <a href="mailto:rayhanandika26@gmail.com">
-    <img src="https://img.icons8.com/color/48/gmail-new.png" width="40" />
+  <a href="https://www.linkedin.com/in/raihan-andika-014298303" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="https://github.com/Raihan260">
-    <img src="https://img.icons8.com/glyph-neue/48/github.png" width="40" />
+  <a href="mailto:rayhanandika26@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  <a href="https://github.com/Raihan260" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
 </p>
+
 
 
 
