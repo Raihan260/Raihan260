@@ -82,18 +82,19 @@ Active Member of Computer Science organization, participating in tech events & c
 
 <p align="center">
   <a href="https://github.com/Raihan260/Raihan260/raw/main/CV_Raihan_Andika.pdf" target="_blank">
-    <img src="https://img.icons8.com/color/48/adobe-acrobat.png" width="48" alt="CV"/>
+    <img src="https://img.shields.io/badge/Download%20CV-FF7139?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" />
+  </a><br>
+  <a href="https://www.linkedin.com/in/raihan-andika-014298303">
+    <img src="https://img.icons8.com/color/48/linkedin.png" width="40" />
   </a>
-  <a href="https://www.linkedin.com/in/raihan-andika-014298303" target="_blank">
-    <img src="https://img.icons8.com/color/48/linkedin.png" width="48" alt="LinkedIn"/>
+  <a href="mailto:rayhanandika26@gmail.com">
+    <img src="https://img.icons8.com/color/48/gmail-new.png" width="40" />
   </a>
-  <a href="mailto:rayhanandika26@gmail.com" target="_blank">
-    <img src="https://img.icons8.com/color/48/gmail-new.png" width="48" alt="Email"/>
-  </a>
-  <a href="https://github.com/Raihan260" target="_blank">
-    <img src="https://img.icons8.com/glyph-neue/48/github.png" width="48" alt="GitHub"/>
+  <a href="https://github.com/Raihan260">
+    <img src="https://img.icons8.com/glyph-neue/48/github.png" width="40" />
   </a>
 </p>
+
 
 
 
