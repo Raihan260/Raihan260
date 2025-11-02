@@ -26,7 +26,7 @@ I enjoy exploring how design and code can come together to create impactful digi
 | **Mobile Development** | Kotlin, Dart (Flutter), Java, Android Studio | Android App, Firebase, Cross-Platform |
 | **Web Development** | HTML, CSS, JavaScript, MySQL | Front-End Development, Responsive Design |
 | **AI & Data** | Python, Faster R-CNN | Traffic Detection, Computer Vision |
-| **Tools & Design** | Figma, Postman, Canva, Git, GitHub | UI/UX Design, Collaboration, API Testing |
+| **Tools & Design** | Figma, Canva, Git, GitHub | UI/UX Design, Collaboration, API Testing |
 
 ### 💼 Featured Projects  
 
